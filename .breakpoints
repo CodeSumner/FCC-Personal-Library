@@ -1,0 +1,18 @@
+{
+  "files": {
+    "tests/2_functional-tests.js": [
+      {
+        "id": "4438588e-8d36-4032-9804-bba306edae99",
+        "line": 4,
+        "version": 1007,
+        "index": 7
+      },
+      {
+        "id": "20c7048a-0bfb-492f-a76a-7bba0ae5635b",
+        "line": 62,
+        "version": 1007,
+        "index": 1844
+      }
+    ]
+  }
+}
